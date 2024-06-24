@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on: null... or 0 because null makes some wired error.
 - 📫 How to reach me: isusramzy.pythonanywhere.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: null... or 0 because null makes some wired error.
+- ⚡ Fun facts: []
 
 <!---
 IsusRamzy/IsusRamzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
