@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsusRamzy
 - 🌱 I’m currently learning: Flutter
-- 💞️ I’m looking to collaborate on: null... or 0 because null makes some wired error.
+-  I’m looking to collaborate on: null... or 0 because null makes some wired error..
 - 📫 How to reach me: isusramzy.pythonanywhere.com
 - 😄 Pronouns: He
 - ⚡ Fun facts: []
