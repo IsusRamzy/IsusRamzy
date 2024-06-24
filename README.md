@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsusRamzy
 - 🌱 I’m currently learning: [Flutter, Unity]
-- 📫 How to reach me: isusramzy.pythonanywhere.com
+- 📫 How to reach me: isusramzy.pythonanywhere.com/contact
 - 😄 Pronouns: He
 - ⚡ Fun facts: [ ]
 
