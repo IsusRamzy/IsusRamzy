@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Programming Platforms:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/21502965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21502965" height="30" width="40" /></a>
 </p>
