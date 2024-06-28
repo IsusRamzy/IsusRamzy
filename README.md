@@ -18,3 +18,7 @@
 <h1>Learn More</h1>
 <p>Take a look on <a href="https://isusramzy.pythonanywhere.com">my website</a></p>
 <p>Feel free to <a href="https://isusramzy.pythonanywhere.com/contact">reach out</a> with any questions!</p>
+
+<h2>Notes for Followers</h2>
+<p>Please do <strong>NOT</strong> follow me without my consent.</p>
+<p>Please <a href="https://isusramzy.pythonanywhere.com/contact">contact me</a> first.</p>
