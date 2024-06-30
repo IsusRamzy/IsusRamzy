@@ -22,3 +22,4 @@
 <h2>Notes for Followers</h2>
 <p>Please do <strong>NOT</strong> follow me without my consent.</p>
 <p>Please <a href="https://isusramzy.pythonanywhere.com/contact">contact me</a> first.</p>
+<p>The website will take a while to load, but it will finally load! So contact me first then follow!</p>
