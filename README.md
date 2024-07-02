@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **MongoDB, Unity & C#**
 
+- 🌱 I'm improving my skills at **HTML & CSS**
+
 - 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
 
 <h3 align="left">Programming Platforms:</h3>
@@ -14,12 +16,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>  <a href="https://ursinaengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.ursinaengine.org/ursina_logo_wireframe.webp" alt="unity" width="40" height="40"/> </a></p>
 </body>
-
-<h1>Learn More</h1>
-<p>Take a look on <a href="https://isusramzy.pythonanywhere.com">my website</a></p>
-<p>Feel free to <a href="https://isusramzy.pythonanywhere.com/contact">reach out</a> with any questions!</p>
-
-<h2>Notes for Followers</h2>
-<p>Please do <strong>NOT</strong> follow me without my consent.</p>
-<p>Please <a href="https://isusramzy.pythonanywhere.com/contact">contact me</a> first.</p>
-<p>The website will take a while to load (or load very fast!), but it will finally load! So contact me first then follow!</p>
