@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Isus Ramzy</h1>
 <h3 align="center">A general developer working mainly with Python</h3>
 
-- 🌱 I’m currently learning **MongoDB, Unity & C#**
+- 🌱 I’m currently learning **Unity & C#**
 
 - 🌱 I'm improving my skills at **HTML & CSS**
 
