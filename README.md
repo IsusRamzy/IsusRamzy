@@ -14,7 +14,7 @@ class Person():
     self.languages = languages
 
 Isus = Person(name="Isus Ramzy Beshara",
-  knowledge=["Unity & C# (Learning...)", "HTML & CSS", "CustomTkinter", "Ursina", "Flask", "MongoDB"],
+  knowledge=["Unity & C# (Learning..)", "HTML & CSS", "CustomTkinter app framework", "Ursina game engine", "Flask micro web framework", "MongoDB database"],
   languages=["English (Advanced)", "Arabic (Native)"]
 )
 print(f"Hello! I'm {Isus.name}")
@@ -24,6 +24,7 @@ for item in Isus.knowledge:
 print("When speaking, I know:")
 for item in Isus.languages:
   print(item)
+
 ```
 
 <h3 align="left">Programming Platforms:</h3>
