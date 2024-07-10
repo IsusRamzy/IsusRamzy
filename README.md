@@ -15,7 +15,7 @@ class Person():
 
 Isus = Person(name="Isus Ramzy Beshara",
   knowledge=["Unity & C# (Learning...)", "HTML & CSS", "CustomTkinter", "Ursina", "Flask", "MongoDB"],
-  languages=["English (Intermediate)", "Arabic (Native)"]
+  languages=["English (Advanced)", "Arabic (Native)"]
 )
 print(f"Hello! I'm {Isus.name}")
 print("For programming, I know:")
