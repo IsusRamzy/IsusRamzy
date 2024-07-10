@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Unity & C#**
 
-- 🌱 I'm improving my skills at **HTML & CSS**
-
 - 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
 
 <h3 align="left">Programming Platforms:</h3>
