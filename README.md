@@ -1,10 +1,27 @@
-<body style="background-color: gray;">
 <h1 align="center">Hi 👋, I'm Isus Ramzy</h1>
 <h3 align="center">A general developer working mainly with Python</h3>
 
 - 🌱 I’m currently learning **Unity & C#**
 
 - 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
+
+For people who only speak Python:  
+```python
+class Person():
+  def __init__(self, name, knowledge, languages):
+    self.name = name
+    self.knowledge = knowledge
+    self.languages = languages
+
+Isus = Person(name="Isus Ramzy Beshara", knowledge=["Unity & C# (Learning...)", "HTML & CSS", "CustomTkinter", "Ursina", "Flask", "MongoDB"], languages=["English (Intermediate)", "Arabic (Native)"])
+print(f"Hello! I'm {Isus.name}")
+print("For programming, I know:")
+for item in Isus.knowledge:
+  print(item)
+print("When speaking, I know:")
+for item in Isus.languages:
+  print(item)
+```
 
 <h3 align="left">Programming Platforms:</h3>
 <p align="left">
@@ -16,5 +33,3 @@
 
 ### New
 - The open-source package manager, <a href="https://github.com/IsusRamzy/PyOpenInstall">PyOpenInstall</a>.
-
-</body>
