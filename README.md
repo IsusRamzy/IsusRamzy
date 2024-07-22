@@ -63,3 +63,5 @@ for item in Isus.languages:
 ### New
 - The open-source package manager, <a href="https://github.com/IsusRamzy/PyOpenInstall">PyOpenInstall</a>.
 - The open-source meme sharing app, <a href="https://github.com/IsusRamzy/LOLiPop">LOLiPop</a>.
+
+Take a look and contribute!
