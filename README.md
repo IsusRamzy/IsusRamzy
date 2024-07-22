@@ -59,6 +59,14 @@ for item in Isus.languages:
   </a>
 </p>
 
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsusRamzy&show_icons=true" alt="my github stats" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsusRamzy&layout=compact" alt="my top languages" height="165">
+</p>
+
 
 ### New
 - The open-source package manager, <a href="https://github.com/IsusRamzy/PyOpenInstall">PyOpenInstall</a>.
