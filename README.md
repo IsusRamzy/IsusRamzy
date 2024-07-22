@@ -61,7 +61,7 @@ for item in Isus.languages:
 
 ## Github Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=IsusRamzy&show_icons=true" alt="my github stats" width="420"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsusRamzy&layout=compact" alt="my top languages" height="165">
