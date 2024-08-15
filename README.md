@@ -72,7 +72,7 @@ for item in Isus.languages:
 ### Help
 - The open-source package manager, <a href="https://github.com/IsusRamzy/PyOpenInstall">PyOpenInstall</a>.
 - The open-source meme sharing app, <a href="https://github.com/IsusRamzy/LOLiPop">LOLiPop</a>.
-- The open-source funniest decoder, <a href="https://github.com/IsusRamzy/UseLinuxBTW">UseLinuxBTW</a>.
+- The open-source funny decoder, <a href="https://github.com/IsusRamzy/UseLinuxBTW">UseLinuxBTW</a>.
 - The open-source C++ library for easy coding, <a href="https://github.com/IsusRamzy/ExtraCPP">ExtraCPP</a>.  
 
 Please take a look and contribute!
