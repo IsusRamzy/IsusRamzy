@@ -1,7 +1,7 @@
 # Hi 👋, I'm Isus Ramzy
 ### A general developer working mainly with Python
 
-- 🌱 I’m currently learning **Unity & C#**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
 
