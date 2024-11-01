@@ -69,11 +69,3 @@ for item in Isus.languages:
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsusRamzy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">  
   <br>
 </p>
-
-
-### Help
-- The open-source package manager, <a href="https://github.com/IsusRamzy/PyOpenInstall">PyOpenInstall</a>.
-- The open-source meme sharing app, <a href="https://github.com/IsusRamzy/LOLiPop">LOLiPop</a>.
-- The open-source funny decoder, <a href="https://github.com/IsusRamzy/UseLinuxBTW">UseLinuxBTW</a>.
-
-Please take a look and contribute!
