@@ -12,7 +12,7 @@ class Person():
     self.languages = languages
 
 Isus = Person(name="Isus Ramzy Beshara",
-  knowledge=["Unity & C# (Learning..)", "HTML & CSS", "CustomTkinter app framework",
+  knowledge=["Unity & C#", "HTML & CSS", "CustomTkinter app framework",
             "Ursina game engine", "Flask micro web framework", "MongoDB database", "Arduino micro-controller",
             "GPIO Zero library for Raspberry Pi Hardware control"],
   languages=["English (Advanced)", "Arabic (Native)"]
