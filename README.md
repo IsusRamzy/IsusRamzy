@@ -3,27 +3,35 @@
 
 - 📫 How to reach me **https://isusramzy.vercel.app/contact**
 
-For people who only speak Python:  
-```python
-class Person():
-  def __init__(self, name: str, knowledge: list[str], languages: list[str]):
-    self.name = name
-    self.knowledge = knowledge
-    self.languages = languages
+For people who only speak Rust:  
+```rust
+struct Person<'a> {
+    name: &'a str,
+    knowledge: [&'a str; 11],
+}
 
-Isus = Person(name="Isus Ramzy Beshara",
-  knowledge=["Unity & C#", "HTML & CSS", "CustomTkinter app framework",
-            "Ursina game engine", "Flask micro web framework", "MongoDB database", "Arduino micro-controller",
-            "GPIO Zero library for Raspberry Pi Hardware control"],
-  languages=["English (Advanced)", "Arabic (Native)"]
-)
-print(f"Hello! I'm {Isus.name}")
-print("For programming, I know:")
-for item in Isus.knowledge:
-  print(item)
-print("When speaking, I know:")
-for item in Isus.languages:
-  print(item)
+fn main() {
+    let isus = Person {
+        name: "Isus",
+        knowledge: [
+            "Unity & C#",
+            "HTML & CSS",
+            "CustomTkinter app framework",
+            "Ursina game engine",
+            "Flask micro web framework",
+            "MongoDB database",
+            "Arduino micro-controller",
+            "GPIO Zero library for Raspberry Pi Hardware control",
+            "Rust Language (Learning)",
+            "Svelte (see personal homepage for more info)",
+            "Express.js (same as Svelte)",
+        ],
+    };
+    println!("Hi, I'm {}!\nI know:", isus.name);
+    for item in &isus.knowledge {
+        println!("{}", item);
+    }
+}
 ```
 
 <h3 align="left">Programming Platforms:</h3>
