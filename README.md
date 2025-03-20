@@ -1,7 +1,7 @@
 # Hi 👋, I'm Isus Ramzy
 ### A general developer working mainly with Python
 
-- 📫 How to reach me **https://isusramzy.pythonanywhere.com/contact**
+- 📫 How to reach me **https://isusramzy.vercel.app/contact**
 
 For people who only speak Python:  
 ```python
