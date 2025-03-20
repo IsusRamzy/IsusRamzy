@@ -1,5 +1,5 @@
-# Hi 👋, I'm Isus Ramzy
-### A general developer working mainly with Python
+# Hi
+### Read the README
 
 - 📫 How to reach me **https://isusramzy.vercel.app/contact**
 
@@ -38,6 +38,7 @@ fn main() {
 <p align="left">
 <a href="https://stackoverflow.com/users/21502965" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21502965" height="30" width="40" /></a>
 </p>
+
 ## Github Stats
 
 <p>
