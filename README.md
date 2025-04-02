@@ -25,6 +25,7 @@ fn main() {
             "Rust Language (Learning)",
             "Svelte (see personal homepage for more info)",
             "Express.js (same as Svelte)",
+            "Go Language (Go by Tour)"
         ],
     };
     println!("Hi, I'm {}!\nI know:", isus.name);
@@ -42,8 +43,8 @@ fn main() {
 ## Github Stats
 
 <p>
-   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=IsusRamzy&show_icons=true&theme=dark&fyuyfwufwyefgwufgwygr=ccfwdgwhgvhwvwgd">
+   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=IsusRamzy&show_icons=true&theme=dark">
   <br>
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsusRamzy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark&rjnurirfgegieer=ergewerggtgteege">  
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsusRamzy&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark">  
   <br>
 </p>
